@@ -1,0 +1,29 @@
+{
+    "main_heading1": "Test Results",
+    "download" : "Download Result",
+
+    "graph_heading": "Graph Chart Example",
+    "graph_sub_heading": "Compliance vs. Social Pressure",
+
+
+    "piechart_heading": "PieChart Example",
+    "piechart_sub_heading": "Social Influence Breakdown",
+
+    "radialbarchart_heading": "RadialBarChart Example",
+
+
+    "main_heading2": "Psychometric Test  Results",
+    "main_heading2_content1" : "Congratulations! Here are the results of your psychometric test taken on",
+    "main_heading2_content2" : ". The test assessed your personality traits, cognitive abilities, and emotional intelligence. The test results provide valuable insights into your strengths and areas for development, helping you understand yourself better.",
+
+
+    "graph_text_heading" : "Graph Chart",
+    "graph_text_content" : "The Graph Chart displays the comparison between your compliance and social pressure scores. The compliance score reflects your tendency to conform to social norms and expectations, while the social pressure score indicates the level of influence from others in decision-making.",
+
+    "piechart_text_heading" : "Pie Chart",
+    "piechart_text_content" : "The Pie Chart illustrates the breakdown of social influence categories. It provides an overview of the various factors affecting your decision-making process, including family, peers, and media influence.",
+
+    "radialbarchart_text_heading" : "Radial Bar Chart",
+    "radialbarchart_text_content" : "The Pie Chart illustrates the breakdown of social influence categories. It provides an overview of the various factors affecting your decision-making process, including family, peers, and media influence."
+
+}
